@@ -32,7 +32,7 @@ The batch file provides the following options:
 ## 🚀 Usage
 
 1. Clone or download this repository.  
-2. Run as administrator the batch file (`.bat`) on your Windows system.  
+2. Run as administrator the batch file (`menu.bat`) on your Windows system.  
 3. Enter the number corresponding to the task you want to perform.
 --- 
 
