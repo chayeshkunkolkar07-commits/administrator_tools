@@ -36,5 +36,4 @@ The batch file provides the following options:
 3. Enter the number corresponding to the task you want to perform.
 ##Example image
 ![example](./image/example1.png)
-![example](./multitoolpage.png)
  
